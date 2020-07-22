@@ -4,15 +4,15 @@
 
 - 得到tokens
 
-  ![image-20200710145021618](https://github.com/HappyTsing/Figure-bed/raw/master/img/20200710150250.png)
+  ![image-20200710145021618](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20200722121343.png)
   
-进入如下界面：
-![image-20200710150130436](https://github.com/HappyTsing/Figure-bed/raw/master/img/20200710150258.png)
+
+![image-20200710150130436](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20200722121356.png)
 只需要勾选repo即可！
 
-## PicGo上传图片到图床
+## PicGo
 
-![image-20200710145308451](https://github.com/HappyTsing/Figure-bed/raw/master/img/20200710150305.png)
+![image-20200710145308451](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20200722121407.png)
 
 >  github图片链接为：https://github.com/HappyTsing/Figure-bed/blob/master/img/20200710132336.png
 >
@@ -26,8 +26,8 @@
 
 **最好开启时间戳重命名：**
 
-![image-20200710150416938](https://github.com/HappyTsing/Figure-bed/raw/master/img/20200710150416.png)
+![image-20200710150416938](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20200722121435.png)
 
-## Typora编写markdown代码
+## Typora
 
-![image-20200710145529054](https://github.com/HappyTsing/Figure-bed/raw/master/img/20200710150345.png)
+![image-20200710145529054](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20200722121415.png)
