@@ -41,11 +41,17 @@
 
 ![设置server](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20210710143426.png)
 
+**如果不行，可以先关闭Server，保存后再打开Server试试看。**
+
 ### 二、设置代理
+
+如果是由于被墙导致的请求超时，可通过设置代理解决：
+
+![请求超时](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/202112021644114.png)
 
 代理的端口可以从科学上网的工具获得，设置即可：
 
 ![设置代理和镜像地址](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/202112021640030.png)
 
-**如果不行，可以先关闭Server，保存后再打开Server试试看。**
+
 
