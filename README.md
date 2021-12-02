@@ -27,17 +27,25 @@
 
 **最好开启时间戳重命名：**
 
-![image-20200710150416938](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20200722121435.png)
+![时间戳重命名](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20200722121435.png)
 
 ## Typora
 
-![image-20200710145529054](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20200722121415.png)
+![typora](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20200722121415.png)
 
 ## 上传失败怎么办？
 
-![image-20210710143342609](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20210710143428.png)
+### 一、检查server的端口是否正确
 
-![image-20210710143352364](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20210710143426.png)
+![设置server](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20210710143428.png)
+
+![设置server](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/20210710143426.png)
+
+### 二、设置代理
+
+代理的端口可以从科学上网的工具获得，设置即可：
+
+![设置代理和镜像地址](https://github.com/WlqFigureBed/FigureBed-one/raw/master/img/202112021640030.png)
 
 **如果不行，可以先关闭Server，保存后再打开Server试试看。**
 
